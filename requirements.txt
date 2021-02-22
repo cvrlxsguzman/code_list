@@ -1,4 +1,4 @@
-asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+
 beautifulsoup4==4.9.3
 brotlipy==0.7.0
 bs4==0.0.1
