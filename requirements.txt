@@ -4,14 +4,14 @@ beautifulsoup4==4.9.3
 bs4==0.0.1
 
 dj-database-url==0.5.0
-Django @ file:///tmp/build/80754af9/django_1612212120213/work
+
 django-heroku==0.3.1
 gunicorn==20.0.4
 
 mysqlclient==2.0.3
 psycopg2 @ file:///C:/ci/psycopg2_1612298803839/work
 
-requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+
 
 soupsieve==2.2
 
